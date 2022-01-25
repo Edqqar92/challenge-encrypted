@@ -1,0 +1,35 @@
+input, textarea {
+    display: block;
+    resize: none;
+    border-radius: 5px;
+}
+
+h1, h3, h4, p{
+    text-align: center;
+}
+
+h4 {
+    margin: 0;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    padding: 40px;
+}
+
+button {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+section {
+    text-align: center;
+}
+
+
